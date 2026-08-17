@@ -6,11 +6,17 @@ sites:
   - name: Landing Page
     url: https://tidepay.cc
   - name: Dashboard App
-    url: https://app.tidepay.cc/login
+    url: https://tidepay.cc/dashboard
+    expectedStatusCodes:
+      - 200
+      - 307
   - name: API
     url: https://api.tidepay.cc/api/health
   - name: Docs
     url: https://docs.tidepay.cc
+    expectedStatusCodes:
+      - 200
+      - 307
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
