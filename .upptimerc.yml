@@ -23,6 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tidepay.cc
   # baseUrl: /your-repo-name
+  logoUrl: https://raw.githubusercontent.com/renatomayoral/tidepay-status/master/assets/tidepay-mark.png
   name: Tidepay Status
   introTitle: "**Tidepay Status**"
   introMessage: Real-time status and uptime history for Tidepay services.
