@@ -1,7 +1,7 @@
 url: https://api.tidepay.cc/api/health
-status: up
-code: 200
-responseTime: 202
-lastUpdated: 2026-10-19T00:51:58.833Z
+status: down
+code: 404
+responseTime: 59
+lastUpdated: 2026-10-19T21:26:34.416Z
 startTime: 2026-08-17T12:59:55.316Z
 generator: Upptime <https://github.com/upptime/upptime>
