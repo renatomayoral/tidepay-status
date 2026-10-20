@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 483,
-    "timeWeek": 459,
-    "timeMonth": 461,
-    "timeYear": 618,
+    "time": 615,
+    "timeDay": 426,
+    "timeWeek": 455,
+    "timeMonth": 465,
+    "timeYear": 615,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 393,
-    "timeDay": 539,
-    "timeWeek": 508,
-    "timeMonth": 464,
-    "timeYear": 393,
+    "time": 394,
+    "timeDay": 471,
+    "timeWeek": 503,
+    "timeMonth": 470,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2026-08-17": 64
     }
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.tidepay.cc.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 131,
-    "timeWeek": 173,
+    "uptime": "99.62%",
+    "uptimeDay": "75.52%",
+    "uptimeWeek": "96.50%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.62%",
+    "time": 170,
+    "timeDay": 84,
+    "timeWeek": 165,
     "timeMonth": 186,
-    "timeYear": 171,
+    "timeYear": 170,
     "dailyMinutesDown": {
-      "2026-10-19": 0
+      "2026-10-20": 199,
+      "2026-10-19": 153
     }
   },
   {
@@ -69,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 529,
-    "timeDay": 504,
-    "timeWeek": 536,
-    "timeMonth": 502,
+    "timeDay": 500,
+    "timeWeek": 532,
+    "timeMonth": 509,
     "timeYear": 529,
     "dailyMinutesDown": {}
   }
